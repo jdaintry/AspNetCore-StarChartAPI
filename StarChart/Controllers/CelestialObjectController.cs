@@ -27,15 +27,7 @@ namespace StarChart.Controllers
         }
 
 
-        [HttpGet("{name}"})]
-        public IActionResult GetByName(string name)
-        {
-           
-
-
-
-        }
-
+       
 
 
         [HttpGet]
